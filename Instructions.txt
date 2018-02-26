@@ -1,0 +1,12 @@
+HOW TO PLAY:  
+Launch Game  
+Press Space to start game  
+Press space to jump  
+  
+GOAL:
+Jump over Skeletons.  
+Get highest score.
+
+To restart after death, press space.
+To exit game, click the red 'x' button at the top left of the screen.
+To check credits, click on the credits button located next to the exit button.

@@ -1,0 +1,7 @@
+1. Adrian Kwok  
+2. Jungle Jump  
+3. Mac OS  
+4. Side Scroller - The player controls the character that constantly moves left and can only jump to avoid obstacles.  
+5. https://jesse-m.itch.io/jungle-pack  
+https://jesse-m.itch.io/skeleton-pack  
+6. http://rijeka.sdsu.edu/adrian-kwok/CS583_2D_Game_Kwok_A_Jungle_Jump.git
