@@ -1,6 +1,5 @@
 # Jungle Jump  
 Adrian Kwok  
-CS583
 
 ![Jungle Jump Start Screen](JungleJumpStartScreen.png)
 
